@@ -26,6 +26,7 @@ app.use(
           'code.jquery.com',
         ],
         styleSrc: ["'self'", "'unsafe-inline'"],
+        imgSrc: ["'self'", 'cdn.gomix.com'],
       },
     },
     frameguard: {
