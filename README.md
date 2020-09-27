@@ -1,5 +1,7 @@
 ## **FreeCodeCamp**- Information Security and Quality Assurance
 
+[![Run on Repl.it](https://repl.it/badge/github/pinglu85/fcc-anonymous-message-board)](https://repl.it/github/pinglu85/fcc-anonymous-message-board)
+
 Project Anonymous Message Board
 
 1. SET NODE_ENV to `test` without quotes when ready to write tests and DB to your databases connection string (in .env)
